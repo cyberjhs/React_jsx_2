@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #ED6665;
+}
+h1,h2,h3,h4,h5,h6,p{
+  padding: 0;
+  margin: 0;
+}
+p{
+  font-size: 6rem;
+  font-weight: bold;
+}
+.about-Text{
+  width: 50vw;
+  text-align: center;
+  margin: auto;
+  margin-top: 15vh;
+  color: white;
+}
+.about-Text>div{
+  margin-top: 9rem;
+}
+img{
+  width: 80px;
+}
